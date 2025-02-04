@@ -1,8 +1,3 @@
-# React + Vite
+Counter Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Created a basic Counter project with the help of hooks where I've use useState, useState is one of the most fundamental and commonly used hooks in React. It allows functional components to manage state, which is data that can change over time and affect the component's rendering. Before hooks, state management was only possible in class components using this.state. With useState, functional components can now have stateful logic.
